@@ -1,0 +1,25 @@
+@media screen and (min-width: 768px) {
+    .header-section-1 {
+      text-align: left;
+    }
+    .header-div {
+      display: flex;
+    }
+    .header-div .video {
+      max-width: 50%;
+      margin-top: 0px;
+      display: block;
+    }
+    .header-div .video-img {
+      width: 100%;
+      margin: 0px;
+    }
+  }
+  @media screen and (min-width: 1124px) {
+    .header-section-1 {
+      text-align: left;
+    }
+    .header-section-1-p {
+      display: inline;
+    }
+  }
